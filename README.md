@@ -47,10 +47,11 @@ I won **1st place in a hackathon** focused on eCommerce product categorization!
 
 ## 💼 Projects
 
-### [Credit Card Fraud Detection](https://github.com/12ashwani/credit-card-fraud-detection)
+### 1-[Credit Card Fraud Detection](https://github.com/12ashwani/credit-card-fraud-detection)
 Developed a machine-learning model to detect fraudulent credit card transactions, aiming to help credit card companies mitigate risks and enhance customer protection.
-
-### [Portfolio Website](https://12ashwani.github.io/index.html)
+### 2- [Loan Defaulter Prediction]
+To develop a machine learning model that predicts the likelihood of a loan applicant defaulting on their loan. This project aims to assist financial institutions in assessing the risk associated with granting loans, thus improving decision-making and minimizing financial losses
+### 3- [Portfolio Website](https://12ashwani.github.io/index.html)
 Created a professional portfolio website showcasing my expertise in data science, with dedicated sections for:
 - **Machine Learning**
 - **Business Intelligence**
